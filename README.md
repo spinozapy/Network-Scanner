@@ -106,7 +106,7 @@ Add Port: exit
 
 [Network Scanner]: Port addition finished.
 
-...
+```
 
 ## Usage Caution
 - For educational or testing purposes only.
