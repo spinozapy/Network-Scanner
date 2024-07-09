@@ -53,7 +53,6 @@ root@you:~$ 1
 [Network Scanner]: Pinging hosts in network 192.168.1.0/24...
 [Network Scanner]: 192.168.1.1 is up
 [Network Scanner]: 192.168.1.2 is down
-...
 
 root@you:~$ 2
 
@@ -64,7 +63,6 @@ Open Ports:
   22
   80
   443
-...
 
 root@you:~$ 3
 
@@ -90,7 +88,6 @@ Common Ports:
   3389
   5900
   8080
-...
 
 root@you:~$ 4
 [Network Scanner]: Enter ports to add (type 'exit' to finish adding):
